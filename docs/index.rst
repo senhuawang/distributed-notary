@@ -1,23 +1,35 @@
 =================================
 Distributed-notary Developer Site 
 =================================
-Resources and documentation for the  .._Distributed-notary: https://github.com/SmartMeshFoundation/Photon
+Resources and documentation for the  `Distributed-notary`_
 
 learnNew to Distributed-notary? 
 -------------------------------
-[Installation](./installation_guide.md), and  [Tutorial](./rest_api.md)
+ `Installation`_
+
 
 
 Develop Specification document for the Solidity smart contracts ?
 ------------------------------------------------------------------
-[Contract Specification](./contract_spec.md)
+ `ContractSpecification`_
+
 
 API Reference Documentation? 
 -----------------------------
-[user API ](./rest_api.md),[Admin API](./mobie.md)
+ `API`_
 
 
 Looking to read the code?  
 -------------------------
-`Github<https://github.com/SmartMeshFoundation/Photon>`
+`Github`_
 
+Search
+======
+
+* :ref:`search`
+
+.. _Distributed-notary:  https://github.com/SmartMeshFoundation/Photon
+.. _Installation: https://ethereum.org/
+.. _ContractSpecificaion: https://fantom.foundation/
+.. _API: https://anyswap.exchange/
+.. _Github: https://anyswap.exchange/
