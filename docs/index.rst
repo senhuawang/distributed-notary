@@ -5,23 +5,23 @@ Resources and documentation for the  `Distributed-notary`_
 
 learnNew to Distributed-notary? 
 -------------------------------
-           `Installation`_
+           `Installation`
 
 
 
 Develop Specification document for the Solidity smart contracts ?
 ------------------------------------------------------------------
-         `ContractSpecification`_
+         `ContractSpecification`
 
 
 API Reference Documentation? 
 -----------------------------
-           `API`_
+           `API`
 
 
 Looking to read the code?  
 -------------------------
-        `Github`_
+        `Github`
 
 
 Search
