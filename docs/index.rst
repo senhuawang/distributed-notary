@@ -1,4 +1,5 @@
-# Distributed-notary Developer Site
+Distributed-notary Developer Site 
+======================
 Resources and documentation for the [Distributed-notary](https://github.com/SmartMeshFoundation/Photon)
 ## learn
 New to Distributed-notary?  [Installation](./installation_guide.md), and  [Tutorial](./rest_api.md)
