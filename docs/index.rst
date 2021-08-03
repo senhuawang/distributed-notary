@@ -1,33 +1,14 @@
-.. |br| raw:: html
+# Distributed-notary Developer Site
+Resources and documentation for the [Distributed-notary](https://github.com/SmartMeshFoundation/Photon)
+## learn
+New to Distributed-notary?  [Installation](./installation_guide.md), and  [Tutorial](./rest_api.md)
 
-    <br>
+## Develop
 
-Community
-^^^^^^^^^
+Specification document for the Solidity smart contracts ? [Contract Specification](./contract_spec.md)
 
-You can join Anyswap's Telegram communities.
-
-General Chat
-&&&&&&&&&&&&
-
-https://t.me/anyswap
-
-Market and Trading Chat
-&&&&&&&&&&&&&&&&&&&&&&&
-
-https://t.me/anyswapmarkets
+API Reference Documentation?  [API site](./rest_api.md),[Mobile API](./mobie.md)
 
 
-Twitter
-&&&&&&&
-
-https://twitter.com/AnyswapNetwork
-
-
-YouTube
-&&&&&&&
-
-`Anyswap YouTube`_
-
-
+Looking to read the code?  [Github](https://github.com/SmartMeshFoundation/Photon)
 
