@@ -30,11 +30,4 @@ YouTube
 `Anyswap YouTube`_
 
 
-Medium
-&&&&&&
-
-`Anyswap Medium Page`_
-
-.. _Anyswap YouTube: https://www.youtube.com/channel/UCrLZAS83TFuy-EdbT-44kng
-.. _Anyswap Medium Page: https://medium.com/@anyswap
 
