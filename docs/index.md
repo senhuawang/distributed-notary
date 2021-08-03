@@ -7,7 +7,7 @@ New to Distributed-notary?  [Installation](./installation_guide.md), and  [Tutor
 
 Specification document for the Solidity smart contracts ? [Contract Specification](./contract_spec.md)
 
-API Reference Documentation?  [API site](./rest_api.md),[Mobile API](./mobie.md)
+API Reference Documentation?  [user API ](./rest_api.md),[Admin API](./mobie.md)
 
 
 Looking to read the code?  [Github](https://github.com/SmartMeshFoundation/Photon)
